@@ -1,0 +1,7 @@
+{
+  "name": "convert-html-in-pdf",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
